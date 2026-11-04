@@ -10,7 +10,7 @@
 
 **ORCID:** [0009-0005-8744-8178](https://orcid.org/0009-0005-8744-8178)
 
-[![DOI](https://img.shields.io/badge/DOI%20ResearchGate-10.13140/RG.2.2.35416.66564-blue)](https://doi.org/10.13140/RG.2.2.35416.66564)  
+[![DOI](https://img.shields.io/badge/DOI%20ResearchGate-10.13140/RG.2.2.27896.20480-blue)](https://doi.org/10.13140/RG.2.2.27896.20480)  
 [![Zenodo](https://img.shields.io/badge/Zenodo-blue)](https://zenodo.org/records/19544116)  
 [![Academia.edu](https://img.shields.io/badge/Academia.edu-blue)](https://www.academia.edu/165640547/Comprehensive_Analysis_of_Atmospheric_Pollution_Integrating_Fundamental_Chemistry_Epidemiological_Metrics_Sociological_Paradigms_and_Policy_Frameworks)  
 **License:** Creative Commons Attribution 4.0 International (CC BY 4.0) / MIT License (Code)
