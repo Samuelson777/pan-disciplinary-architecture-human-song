@@ -1,15 +1,20 @@
 # The Pan-Disciplinary Architecture of Human Song: Evolutionary Universals, Vocal Tract Bioacoustics, Striatal-Cortical Neurobiology, Neural Synthesis, and Algorithmic Compression
 
 **Author:** SAMUELSON G
+
 **Position:** Independent Researcher
+
 **Affiliation:** Department of Multidisciplinary Cognitive, Bioacoustic, and Computational Music Sciences
+
 **Correspondence:** gsamuelsonguna@gmail.com
+
 **ORCID:** [0009-0005-8744-8178](https://orcid.org/0009-0005-8744-8178)
+
+**License:** Creative Commons Attribution 4.0 International (CC BY 4.0) / MIT License (Code)
+
 [![DOI](https://img.shields.io/badge/DOI%20ResearchGate-10.13140/RG.2.2.27896.20480-blue)](https://doi.org/10.13140/RG.2.2.27896.20480)  
 [![Zenodo](https://img.shields.io/badge/Zenodo-blue)](https://zenodo.org/records/23956331)  
 [![Academia.edu](https://img.shields.io/badge/Academia.edu-blue)](https://www.academia.edu/180208653/The_Pan_Disciplinary_Architecture_of_Human_Song_Evolutionary_Universals_Vocal_Tract_Bioacoustics_Striatal_Cortical_Neurobiology_Neural_Synthesis_and_Algorithmic_Compression)  
-**License:** Creative Commons Attribution 4.0 International (CC BY 4.0) / MIT License (Code)
-
 
 ## Abstract
 
